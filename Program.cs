@@ -21,6 +21,8 @@ namespace Variables_Houston_Morgan
 
             Console.WriteLine($"{myName}\'s favorite sport is {myFavSport}!");
 
+            Console.WriteLine("Changed");
+
         }
     }
 }
